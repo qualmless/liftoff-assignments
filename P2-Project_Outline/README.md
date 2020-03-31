@@ -18,18 +18,19 @@ I would like to have the stylists submit to have their entries added, but have t
 ### Features
 Include Features here
 
-Search by location, request to add entry (added on backend once checked against database)
+Search by location. request to add entry (added on backend once checked against database). a user login probably makes sense for the entry requests. perhaps each login is tied to one entry. the clients need the functionality to search, not the stylists.
 
 ### Technologies
 Include Technologies here
 
-
+Java, Spring Boot, MySQL, Hibernate, Thymeleaf templates, HTML, CSS, JavaScript
 
 ### What I'll Have to Learn
 Include what you will need to learn here
 
-
+fuck idunno yet tbh
 
 ### Project Tracker
 Link to your Trello board here
+
 https://trello.com/invite/b/SBIjG1Yp/a227fe6b9c93f33c6eb1002c87d8c0ad/liftoff
