@@ -32,4 +32,4 @@ Include what you will need to learn here
 
 ### Project Tracker
 Link to your Trello board here
-https://trello.com/b/SBIjG1Yp/liftoff
+https://trello.com/invite/b/SBIjG1Yp/a227fe6b9c93f33c6eb1002c87d8c0ad/liftoff
