@@ -28,7 +28,7 @@ Java, Spring Boot, MySQL, Hibernate, Thymeleaf templates, HTML, CSS, JavaScript
 ### What I'll Have to Learn
 Include what you will need to learn here
 
-fuck idunno yet tbh
+idunno yet tbh
 
 ### Project Tracker
 Link to your Trello board here
